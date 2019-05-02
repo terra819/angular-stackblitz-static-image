@@ -1,3 +1,3 @@
-# angular-azdw2w
+# angular-stackblitz-static-image
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-azdw2w)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-stackblitz-static-image)
